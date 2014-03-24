@@ -17,8 +17,8 @@
 			"secret": "s-RDQejhRwmx-j4DCaXPMw"
 		},
 		"colors": {
-			"primary": "#327B9F",
-			"secondary": "#569BBE"
+			"primary": "#001F5C",
+			"secondary": "#306AA4"
 		},
 		"useSlideMenu": true
 	},
@@ -28,65 +28,26 @@
 	],
 	"tabs": [
 		{
-			"menuHeader": "My Tabs",
-			"title": "Text",
-			"heading": "Open Source Mobile Framework for Charities",
-			"text": "The ChariTi framework is built to allow the often-times small team of staffers at charities around the world to build a mobile application. This is achieved by removing the requirement for a highly-knowledgeable technical staff or costly app development firm and instead allowing app creation and management by anyone from a marketing director to an intern.",
+			"menuHeader": "Clothing",
+			"title": "Wear",
+			"heading": "What should I wear?",
+			"text": " Here is what you should wear ",
 			"type": "text",
-			"image": "chariti",
+			"image": "home",
 			"tabletSupport": false
 		},
 		{
-			"title": "Podcast",
-			"feed": "http://feeds.feedburner.com/TEDTalks_audio",
-			"type": "podcast",
-			"image": "audio2",
-			"cache": 1440,
-			"tabletSupport": true
-		},
-		{
-			"title": "Facebook",
-			"userid": "20594753592",
-			"type": "facebook",
-			"image": "facebook",
-			"cache": 1440,
-			"tabletSupport": true
-		},
-		{
-			"title": "Blog",
-			"feed": "http://developer.appcelerator.com/blog/feed",
-			"type": "article",
+			"menuHeader": "Weather",
+			"title": "Weather",
+			"heading": "Here is your weather",
+			"text": "Here is the weather for your area",
+			"type": "text",
 			"image": "news",
-			"cache": 120,
-			"tabletSupport": true
+			"tabletSupport": false
 		},
+		
 		{
-			"title": "Flickr",
-			"username": "39494278@N04",
-			"apiKey": "e067644d8af6a8a9f2f36f8abbe32720",
-			"type": "flickr",
-			"image": "photo",
-			"cache": 1440,
-			"tabletSupport": true
-		},
-		{
-			"menuHeader": "More Tabs",
-			"title": "Events",
-			"userid": "7304307941",
-			"type": "event",
-			"image": "event",
-			"cache": 1440,
-			"tabletSupport": true
-		},
-		{
-			"title": "Vimeo",
-			"username": "appcelerator",
-			"type": "vimeo",
-			"image": "video2",
-			"cache": 1440,
-			"tabletSupport": true
-		},
-		{
+			"menuHeader": "Other",
 			"title": "Share",
 			"templates": [
 				{

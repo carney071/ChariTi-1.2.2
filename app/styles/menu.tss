@@ -3,7 +3,7 @@
 },
 "#container": {
 	top: "0dp",
-	backgroundColor: "#EEE",
+	backgroundColor: "#2B5F94",
 	rowHeight: "48dp",
 	separatorColor: "#DDD",
 	scrollsToTop: true
